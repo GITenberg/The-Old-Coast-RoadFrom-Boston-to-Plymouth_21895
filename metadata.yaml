@@ -1,0 +1,34 @@
+_repo: The-Old-Coast-RoadFrom-Boston-to-Plymouth_21895
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rothery, Agnes
+    aliases:
+    - Pratt, Agnes Rothery
+    - Rothery, Agnes Edwards
+    birthdate: 1888
+    deathdate: 1954
+    gutenberg_agent_id: '24955'
+    url: http://www.gutenberg.org/2009/agents/24955
+description: ''
+gutenberg_issued: '2007-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21895'
+  lccn: '20026574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plymouth County (Mass.) -- Description and travel'
+- !lcc 'F001'
+- !lcsh 'Norfolk County (Mass.) -- Description and travel'
+- !lcsh 'South Shore (Mass. : Coast)'
+title: 'The Old Coast Road
+
+  From Boston to Plymouth'
+url: http://www.gutenberg.org/ebooks/21895
