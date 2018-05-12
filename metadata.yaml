@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '24955'
     url: http://www.gutenberg.org/2009/agents/24955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21895#The-Old-Coast-RoadFrom-Boston-to-Plymouth
 gutenberg_issued: '2007-06-21'
 gutenberg_type: Text
 identifiers:
